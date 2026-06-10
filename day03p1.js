@@ -1,0 +1,32 @@
+/*let number=9;
+
+switch (number){
+	case 1:
+	   console.log("this is monday!");
+	   break;
+	case 2:
+	   console.log("this is tuesday!");
+	   break;
+	case 3:
+	   console.log("this is wednesday!");
+	   break;
+	case 4:
+	   console.log("this is thursday!");
+	   break;
+	case 5:
+	   console.log("this is friday!");
+	   break;
+	case 6:
+	   console.log("this is saturday!");
+	   break;
+	case 7:
+	   console.log("this is sunday!");
+	   break;
+	 default:
+	   console.log("invalid!");
+}*/
+
+let i=0;
+for (i=0;i=>3;i+5){
+	console.log("hii:"+ i);
+}
